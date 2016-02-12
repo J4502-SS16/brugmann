@@ -7,13 +7,9 @@ body{
   border-style:none;
   float: left;
   margin: 5px 10px 5px 90px;
-  horizontal-align: middle;
   clear: both;
 }
 
-#picture{
-  margin:0 auto;
-}
 
 h1{
   font-size: 25px;
