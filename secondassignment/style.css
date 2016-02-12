@@ -33,7 +33,7 @@ h1{
   color: #fff;
   background-color: steelblue;
   display:block;
-  width:295px;
+  width:300px;
   text-align:center;
   text-decoration:none;
   padding:4px 0;
@@ -44,7 +44,7 @@ h1{
 }
 
 #container{
-  width: 900px;
+  width: 950px;
   margin:0 auto;
 }
 
@@ -54,7 +54,7 @@ h1{
 }
 
 #sidebar{
-  width:300px;
+  width:325px;
   float: right;
   background-color: #E0ffff;
 }
@@ -66,7 +66,7 @@ h1{
 
 #main{
   background-color: #ADD8E6;
-  width: 600px;
+  width: 625px;
   height:175px;
   float:left;
 }
