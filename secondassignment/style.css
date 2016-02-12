@@ -23,8 +23,9 @@ h1{
   padding:0;
 }
 
-#nav li{
+#nav li {
   float: left;
+  list-style-type: none;
 }
 
 #nav a:link, #nav a:visited{
